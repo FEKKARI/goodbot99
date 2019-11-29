@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const devs = ['389090790984515594'];
+const devs = ['458640422420480012'];
 const db = require('quick.db');
 const premium = ['470896018603376640']
 const client = new Discord.Client();   
@@ -27,7 +27,7 @@ const youtube = new YouTube("AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8");
 const sql = require("sqlite");
 const dateFormat = require('dateformat'); 
 const pretty = require('pretty-ms') 
-const prefix = '!';
+const prefix = '#';
 var table = require('table').table
 var ti={}  
 ,spee={}
@@ -3530,4 +3530,4 @@ client.on('guildMemberAdd', member => {
 return channel.send("**`افضل موقع بيديك حسابات مجانا لكل الالعاب ال ممكن تتخيلها` \n [https://to.free-gg.com/VYOeHU0]**")
     }
     )});
-client.login(process.env.BOT_TOKEN)
+client.login(NjIyNjg2NTE2MTc0NTIwMzQ2.XeBD2g.32qsblyFeRTkuAwTg5YXm2F3lVY)
